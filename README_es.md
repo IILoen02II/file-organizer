@@ -23,7 +23,7 @@ Disponible en español e inglés.
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/TU_USUARIO/organizador-archivos.git
+   git clone https://github.com/IILoen02II/file-organizer.git
    cd organizador-archivos
    ```
 
