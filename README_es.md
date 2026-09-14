@@ -24,7 +24,7 @@ Disponible en español e inglés.
 
    ```bash
    git clone https://github.com/IILoen02II/file-organizer.git
-   cd organizador-archivos
+   cd file-organizer
    ```
 
 2. Crea y activa un entorno virtual:
