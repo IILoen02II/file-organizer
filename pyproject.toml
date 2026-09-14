@@ -1,0 +1,15 @@
+[project]
+name = "organizador-archivos"
+version = "0.1.0"
+description = "Organizador de archivos por tipo y antigüedad"
+dependencies = [
+    "python-dotenv",
+    "rich",
+]
+
+[project.scripts]
+organizar = "organizer.main:main_menu"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
